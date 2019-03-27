@@ -30,7 +30,7 @@ $ swift alphabetize.swift
 > import SnapKit
 > import UIKit
 > import Then
-> Ctrl+D
+> Ctrl+D or Command(⌘)+D
 import Foundation
 import UIKit
 
